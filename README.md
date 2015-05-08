@@ -1,4 +1,4 @@
-# Two script for a little easy backup
+# Two scripts for a little easy backup
 
 1. Clone or copy the script:
 
